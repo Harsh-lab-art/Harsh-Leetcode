@@ -1,5 +1,1 @@
-# harsh
-## This is my Repository where we will have Leetcode solutions in Java
-Here we will have all the Algorithms and Solutions for Leetcode in Java
-<br>
-Author-Harsh Kumar Verma
+<img width="1420" height="721" alt="image" src="https://github.com/user-attachments/assets/d6d90fa1-e650-486c-a7fa-44ed45cf317b" />
